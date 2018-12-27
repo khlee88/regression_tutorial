@@ -11,8 +11,8 @@
   3.3 use OLS (ordinary least squares)
   3.4 change coefficient according to the change of lambda
 4. Lasso Regression
-  4.1 use glmnet function in R glmnet package
-  4.2 use Optimization
+  * use glmnet function in R glmnet package
+  * use Optimization
 5. Ordianl Regression (cumulative link model)
   5.1 Make toy data
   5.2 use clm function in R ordinal package 
