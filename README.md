@@ -1,5 +1,8 @@
 # regression_tutorial
 
+1. Make toy data
+2. Linear Regression
+	2.1 use lm function in R package 
 * Make toy data
 * Linear Regression
     	* use lm function in R package
