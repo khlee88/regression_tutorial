@@ -3,11 +3,9 @@
 1. Make toy data
 2. Linear Regression
 	2.1 use lm function in R package 
-* Make toy data
-* Linear Regression
-    	* use lm function in R package
-    	* use OLS (ordinary least squares)
-    	* use Optimization
+    	2.2 use lm function in R package
+    	2.3 use OLS (ordinary least squares)
+    	2.4 use Optimization
 3. Ridge Regression
   	3.1 use glmnet function in R glmnet package
   	3.2 use Optimization
