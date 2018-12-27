@@ -81,7 +81,7 @@ as.numeric(coef(glmnet_ridge, s=.1))[-1]
 
 ## use Optimization
 ### set loss function
-$\min {(y - \beta X)^2} + \lambda n\sum\limits_i {{\beta_i}^2}$
+$\min {(y - \beta X)^2} + \lambda n\sum\limits_i {\beta_i^2}$
 ```{r}
 ridge_loss <- function(w, X, y, lambda = .1) {
   crossprod(y - X%*%w) + lambda*length(y)*crossprod(w)
