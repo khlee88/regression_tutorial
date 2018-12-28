@@ -1,4 +1,4 @@
-# regression_tutorial
+# Regression Tutorial
 
 1. Make toy data
 2. Linear Regression
