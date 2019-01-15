@@ -1,4 +1,5 @@
 # Regression Tutorial
+html page: https://khlee88.github.io/regression_tutorial/
 
 1. Make toy data
 2. Linear Regression
